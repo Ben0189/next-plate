@@ -20,6 +20,9 @@
   "iconLibrary": "lucide",
   "registries": {
     "plate": {
+      "tailwind": {
+        "baseColor": "neutral"
+      },
       "aliases": {
         "ui": "@/components/plate-ui"
       },
